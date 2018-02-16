@@ -1,0 +1,27 @@
+{
+  "name": "hangman-lib",
+  "version": "0.0.0",
+  "description": "Hangman game library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielml/hangman-lib.git"
+  },
+  "keywords": [
+    "hangman",
+    "game"
+  ],
+  "author": "Gabriel Mijares <gabrielmljob@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielml/hangman-lib/issues"
+  },
+  "homepage": "https://github.com/gabrielml/hangman-lib#readme",
+  "devDependencies": {
+    "jest": "22.3.0"
+  }
+}
