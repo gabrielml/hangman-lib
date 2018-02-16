@@ -1,3 +1,3 @@
-const newGame = require('hangman').newGame;
+const newGame = require('./hangman').newGame;
 
 exports.newGame = newGame;
